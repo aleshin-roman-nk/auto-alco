@@ -1,0 +1,77 @@
+c:\users\xoxol\documents\visual studio 2013\Projects\TestArduinoCOM\bin\Debug\TestArduinoCOM.exe.config
+c:\users\xoxol\documents\visual studio 2013\Projects\TestArduinoCOM\bin\Debug\TestArduinoCOM.exe
+c:\users\xoxol\documents\visual studio 2013\Projects\TestArduinoCOM\bin\Debug\TestArduinoCOM.pdb
+c:\users\xoxol\documents\visual studio 2013\Projects\TestArduinoCOM\obj\Debug\TestArduinoCOM.csprojResolveAssemblyReference.cache
+c:\users\xoxol\documents\visual studio 2013\Projects\TestArduinoCOM\obj\Debug\TestArduinoCOM.Form1.resources
+c:\users\xoxol\documents\visual studio 2013\Projects\TestArduinoCOM\obj\Debug\TestArduinoCOM.Properties.Resources.resources
+c:\users\xoxol\documents\visual studio 2013\Projects\TestArduinoCOM\obj\Debug\TestArduinoCOM.csproj.GenerateResource.Cache
+c:\users\xoxol\documents\visual studio 2013\Projects\TestArduinoCOM\obj\Debug\TestArduinoCOM.exe
+c:\users\xoxol\documents\visual studio 2013\Projects\TestArduinoCOM\obj\Debug\TestArduinoCOM.pdb
+f:\CODE\Arduino\TestArduinoCOM\bin\Debug\TestArduinoCOM.exe.config
+f:\CODE\Arduino\TestArduinoCOM\bin\Debug\TestArduinoCOM.exe
+f:\CODE\Arduino\TestArduinoCOM\bin\Debug\TestArduinoCOM.pdb
+f:\CODE\Arduino\TestArduinoCOM\obj\Debug\TestArduinoCOM.Form1.resources
+f:\CODE\Arduino\TestArduinoCOM\obj\Debug\TestArduinoCOM.Properties.Resources.resources
+f:\CODE\Arduino\TestArduinoCOM\obj\Debug\TestArduinoCOM.csproj.GenerateResource.cache
+f:\CODE\Arduino\TestArduinoCOM\obj\Debug\TestArduinoCOM.csproj.CoreCompileInputs.cache
+f:\CODE\Arduino\TestArduinoCOM\obj\Debug\TestArduinoCOM.exe
+f:\CODE\Arduino\TestArduinoCOM\obj\Debug\TestArduinoCOM.pdb
+F:\CODE\Arduino\TestArduinoCOM\obj\Debug\TestArduinoCOM.csproj.AssemblyReference.cache
+f:\CODE\Arduino\TestArduinoCOM\bin\Debug\EntityFramework.dll
+f:\CODE\Arduino\TestArduinoCOM\bin\Debug\EntityFramework.SqlServer.dll
+f:\CODE\Arduino\TestArduinoCOM\bin\Debug\System.Data.SQLite.dll
+f:\CODE\Arduino\TestArduinoCOM\bin\Debug\System.Data.SQLite.EF6.dll
+f:\CODE\Arduino\TestArduinoCOM\bin\Debug\System.Data.SQLite.Linq.dll
+f:\CODE\Arduino\TestArduinoCOM\bin\Debug\EntityFramework.xml
+f:\CODE\Arduino\TestArduinoCOM\bin\Debug\EntityFramework.SqlServer.xml
+f:\CODE\Arduino\TestArduinoCOM\bin\Debug\System.Data.SQLite.xml
+f:\CODE\Arduino\TestArduinoCOM\obj\Debug\TestArduinoCOM.ChooseSessionForm.resources
+f:\CODE\Arduino\TestArduinoCOM\obj\Debug\TestArduinoCOM.csproj.CopyComplete
+f:\CODE\Arduino\TestArduinoCOM\bin\Debug\Newtonsoft.Json.dll
+f:\CODE\Arduino\TestArduinoCOM\bin\Debug\Newtonsoft.Json.xml
+f:\CODE\Arduino\TestArduinoCOM_Colonna\bin\Debug\TestArduinoCOM.exe.config
+f:\CODE\Arduino\TestArduinoCOM_Colonna\bin\Debug\TestArduinoCOM.exe
+f:\CODE\Arduino\TestArduinoCOM_Colonna\bin\Debug\TestArduinoCOM.pdb
+f:\CODE\Arduino\TestArduinoCOM_Colonna\bin\Debug\EntityFramework.dll
+f:\CODE\Arduino\TestArduinoCOM_Colonna\bin\Debug\EntityFramework.SqlServer.dll
+f:\CODE\Arduino\TestArduinoCOM_Colonna\bin\Debug\Newtonsoft.Json.dll
+f:\CODE\Arduino\TestArduinoCOM_Colonna\bin\Debug\System.Data.SQLite.dll
+f:\CODE\Arduino\TestArduinoCOM_Colonna\bin\Debug\System.Data.SQLite.EF6.dll
+f:\CODE\Arduino\TestArduinoCOM_Colonna\bin\Debug\System.Data.SQLite.Linq.dll
+f:\CODE\Arduino\TestArduinoCOM_Colonna\bin\Debug\EntityFramework.xml
+f:\CODE\Arduino\TestArduinoCOM_Colonna\bin\Debug\EntityFramework.SqlServer.xml
+f:\CODE\Arduino\TestArduinoCOM_Colonna\bin\Debug\Newtonsoft.Json.xml
+f:\CODE\Arduino\TestArduinoCOM_Colonna\bin\Debug\System.Data.SQLite.xml
+f:\CODE\Arduino\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.csproj.AssemblyReference.cache
+f:\CODE\Arduino\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.ChooseSessionForm.resources
+f:\CODE\Arduino\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.Form1.resources
+f:\CODE\Arduino\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.Properties.Resources.resources
+f:\CODE\Arduino\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.csproj.GenerateResource.cache
+f:\CODE\Arduino\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.csproj.CoreCompileInputs.cache
+f:\CODE\Arduino\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.csproj.CopyComplete
+f:\CODE\Arduino\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.exe
+f:\CODE\Arduino\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.pdb
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\bin\Debug\TestArduinoCOM.exe.config
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\bin\Debug\TestArduinoCOM.exe
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\bin\Debug\TestArduinoCOM.pdb
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\bin\Debug\EntityFramework.dll
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\bin\Debug\EntityFramework.SqlServer.dll
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\bin\Debug\Newtonsoft.Json.dll
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\bin\Debug\System.Data.SQLite.dll
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\bin\Debug\System.Data.SQLite.EF6.dll
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\bin\Debug\System.Data.SQLite.Linq.dll
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\bin\Debug\EntityFramework.xml
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\bin\Debug\EntityFramework.SqlServer.xml
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\bin\Debug\Newtonsoft.Json.xml
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\bin\Debug\System.Data.SQLite.xml
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.csproj.AssemblyReference.cache
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.ChooseSessionForm.resources
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.Form1.resources
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.GPointEditDlg.resources
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.Properties.Resources.resources
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.csproj.GenerateResource.cache
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.csproj.CoreCompileInputs.cache
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.exe
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.pdb
+g:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.csproj.CopyComplete
+G:\CODE\Arduino\RectifiAutomatic\TestArduinoCOM_Colonna\obj\Debug\TestArduinoCOM.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "49b000a7-acf1-410e-9b8b-c7c64a570b04": {
+      "ProjectGuid": "49b000a7-acf1-410e-9b8b-c7c64a570b04",
+      "DisplayName": "TestArduinoCOM",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
